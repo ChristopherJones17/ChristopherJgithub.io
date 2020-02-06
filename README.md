@@ -1,2 +1,2 @@
-# ChristopherJgithub.io
+# ChristopherJ.github.io
 My own awesome website 
